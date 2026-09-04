@@ -1,0 +1,16 @@
+Student 1
+ID: 101
+Name: himanshu
+Age: 20
+Email: himanshu@gmail.com
+Address: bageshwar
+Country: India
+
+Student 2
+ID: 201
+Name: pawan
+Age: 21
+Email: vots@gmail.com
+Address: bageshwar
+Country: India
+
